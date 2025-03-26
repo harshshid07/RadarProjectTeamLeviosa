@@ -10,16 +10,15 @@ Our project focuses on developing a Python-based GUI application for real-time W
 
 Install the following to run the main code (pip install ..),[Some are pre-installed in system Ignore them], ::::::
 
-pip install numpy matplotlib scapy pywifi mac-vendor-lookup requests pillow,
+pip install numpy matplotlib scapy pywifi mac-vendor-lookup requests pillow
 
-pip install pywifi mac-vendor-lookup requests pillow matplotlib,
+pip install pywifi mac-vendor-lookup requests pillow matplotlib
 
 pip install numpy matplotlib scapy sockets tk pywifi
 
-pip install ttk time threading maclookup requests figure deque sys,
+pip install ttk time threading maclookup requests figure deque sys
 
 python -m tkinter
 
-
-Look out for the Photos of Running Code.
-Presentation PPT used for Aavishkar 2024.
+** Look out for the Photos of Running Code.
+** Presentation PPT used for Aavishkar 2024.
