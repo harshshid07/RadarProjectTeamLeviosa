@@ -9,22 +9,15 @@ Our project focuses on developing a Python-based GUI application for real-time W
 ** the "main.py" file has the Main Code of the Project. Run main.py in Visual Studio Code or any other after Installing all the required Dependencies. Wait for a Few Seconds for the Code to Run and Display Window.
 
 Install the following to run the main code (pip install ..),[Some are pre-installed in system Ignore them], ::::::
+
 pip install numpy matplotlib scapy pywifi mac-vendor-lookup requests pillow,
+
 pip install pywifi mac-vendor-lookup requests pillow matplotlib,
-pip install numpy,
-pip install matplotlib,
-pip install scapy,
-pip install tk,
-pip install ttk,
-pip install sockets,
-pip install pywifi,
-pip install time,
-pip install threading,
-pip install maclookup,
-pip install requests,
-pip install figure,
-pip install deque,
-pip install sys,
+
+pip install numpy matplotlib scapy sockets tk pywifi
+
+pip install ttk time threading maclookup requests figure deque sys,
+
 python -m tkinter
 
 
